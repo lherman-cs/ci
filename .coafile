@@ -1,0 +1,7 @@
+[all]
+max_line_length = 80
+use_spaces = True
+
+[python]
+files = **/*.py
+bears = PEP8Bear
